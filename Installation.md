@@ -21,3 +21,4 @@
 <p>Instead of sourcing ROS everytime a new terminal is opened, it can be automated by adding the source command in the bash file</p>
 <pre><code>echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 <br>source ~/.bashrc</code></pre>
+![bash file](https://user-images.githubusercontent.com/89002422/136692643-a67bf7c3-68bb-448c-a1a9-5c7ec52ac954.png)
