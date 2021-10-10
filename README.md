@@ -1,3 +1,3 @@
 # ROS Essentials
-Starting off from an absolute beginner level to advanced levels
+Starting off from an absolute beginner level to advanced levels.
 <hr>
