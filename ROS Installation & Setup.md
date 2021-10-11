@@ -13,7 +13,7 @@
 <pre><code>curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -</code></pre>
 
 ## 3 Installation
-<p>Run <code>sudo apt update</code> to make sure all Debian packages are upto date.</p>
+<p>Run <code>sudo apt update</code> to make sure all Debian packages are upto date</p>
 <p>For the ROS installation, I've gone with a <b>Desktop-Full Install</b> by executing:</p>
 <pre><code>sudo apt install ros-noetic-desktop-full</code></pre>
 
@@ -49,7 +49,15 @@
 </p>
 
 ## 6 Clone: ROS Noetic Distribution GitHub Repo
-Here, I've maken use of the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp) repository by [Anis Koubaa](https://github.com/aniskoubaa)
+Here, I've maken use of the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp/tree/ros-noetic) repository by [Anis Koubaa](https://github.com/aniskoubaa)
+<br>Make sure that you are in the <code>ros-noetic</code> branch, to proceed with the following steps
+
+<p>Within the src sub-directory, clone the above mentioned repo
+<br><pre><code>git clone -b ros-noetic https://github.com/aniskoubaa/ros_essentials_cpp.git</code></pre></p>
+<p align="center">
+  <img width="569.3240901213" height="213.885416370707" src="https://user-images.githubusercontent.com/89002422/136830333-f5f84196-bb49-45cd-b6dc-684012ddf268.png">
+</p>
+<p>Run <code>catkin_make</code> in the catkin_ws directory, the changes have been saved successfully if no errors are reflected</p>
 
 ## 7 Test Installation w/ C++ Nodes
 ## 8 Test & Fix Installation w/ Python Nodes
