@@ -48,6 +48,8 @@
   <img width="569.3240901213" height="119.0333723499829" src="https://user-images.githubusercontent.com/89002422/136827417-862dec8c-3a5c-4bc4-9212-f0845f402135.png">
 </p>
 
-## 6 Clone: ROS Noetic Distrubution GitHub Repo
+## 6 Clone: ROS Noetic Distribution GitHub Repo
+Here, I've maken use of the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp) repository by [Anis Koubaa](https://github.com/aniskoubaa)
+
 ## 7 Test Installation w/ C++ Nodes
 ## 8 Test & Fix Installation w/ Python Nodes
