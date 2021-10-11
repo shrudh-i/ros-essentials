@@ -35,7 +35,18 @@
 <br>cd ~/catkin_ws/
 <br>catkin_make</code></pre>
 <p>Here, running <code>catkin_make</code> for the first time, creates a <code>CMakeLists.txt</code> link in the src directory. Along with that, three sub-directories:</p>
-
+<p align="center">
+  <img width="569.3240901213" height="98.13246970627059" src="https://user-images.githubusercontent.com/89002422/136824399-eecb4f28-c13b-475d-95c7-ce5e53eb5533.png">
+</p>
+<p>To activate the catkin workspace, the <code>setup.bash</code> present in the devel sub-directory needs to be sourced:</p>
+<p align="center">
+  <img width="569.3240901213" height="447.2149615023873" src="https://user-images.githubusercontent.com/89002422/136826329-a8930559-c6a7-4306-83c9-ec9644be05e3.png">
+  <br>Run <code>source .bashrc</code> in the terminal to for the catkin workspace to be activated as the default repo for ROS
+</p>
+<p>To verify, run <code>roscd</code> and you'll be directed to the catkin workspace</p>
+<p align="center">
+  <img width="569.3240901213" height="119.0333723499829" src="https://user-images.githubusercontent.com/89002422/136827417-862dec8c-3a5c-4bc4-9212-f0845f402135.png">
+</p>
 
 ## 6 Clone: ROS Noetic Distrubution GitHub Repo
 ## 7 Test Installation w/ C++ Nodes
