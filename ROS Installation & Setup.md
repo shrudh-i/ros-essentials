@@ -25,3 +25,8 @@
 <p align="center">
   <img width="569.3240901213" height="450" src="https://user-images.githubusercontent.com/89002422/136798855-1799b50f-a87c-4b87-a029-b13a85c6beb6.png">
 </p>
+
+## 5 Create: Catkin Workspace
+## 6 Clone: ROS Noetic Distrubution GitHub Repo
+## 7 Test Installation w/ C++ Nodes
+## 8 Test & Fix Installation w/ Python Nodes
