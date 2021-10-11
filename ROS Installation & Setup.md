@@ -27,6 +27,16 @@
 </p>
 
 ## 5 Create: Catkin Workspace
+<p>
+  The catkin workspace is a directory where existing catkin packages can be created/modified
+  <br>To build the catkin workspace:
+</p>
+<pre><code>mkdir -p ~/catkin_ws/src
+<br>cd ~/catkin_ws/
+<br>catkin_make</code></pre>
+<p>Here, running <code>catkin_make</code> for the first time, creates a <code>CMakeLists.txt</code> link in the src directory. Along with that, three sub-directories:</p>
+
+
 ## 6 Clone: ROS Noetic Distrubution GitHub Repo
 ## 7 Test Installation w/ C++ Nodes
 ## 8 Test & Fix Installation w/ Python Nodes
