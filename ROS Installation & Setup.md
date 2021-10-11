@@ -12,7 +12,7 @@
 <p>If you haven't installed curl yet, run: <code>sudo apt-get install curl</code> and then proceed to execute this command:</p>
 <pre><code>curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -</code></pre>
 
-## 3 Installtion
+## 3 Installation
 <p>Run <code>sudo apt update</code> to make sure all Debian packages are upto date.</p>
 <p>For the ROS installation, I've gone with a <b>Desktop-Full Install</b> by executing:</p>
 <pre><code>sudo apt install ros-noetic-desktop-full</code></pre>
