@@ -65,9 +65,24 @@ To check if the installation of the [ros_essentials_cpp](https://github.com/anis
   <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136831736-79db2fb1-7fbb-471a-97d1-d0fac664b201.png">
 </p>
 
-Testing the <code>talker</code> and <code>listener</code> nodes of the demo examples provided in the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp/tree/ros-noetic) repo:
+Testing the <code>talker_node</code> and <code>listener_node</code> nodes of the demo examples provided in the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp/tree/ros-noetic) repo:
 <p align="center">
-  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136834410-40ff7b56-4529-495f-9ad4-f994dd4de882.png">
+  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136955375-a36838b8-b4af-41e0-9881-1506ff1bdbce.png">
+</p>
+<p align="center">
+  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136956000-5dee893a-be35-4b26-a2a6-e71aa6d98de3.png">
 </p>
 
 ## 8 Test & Fix Installation w/ Python Nodes
+Testing the <code>talker.py</code> and <code>listener.py</code> nodes of the demo examples provided in the [ros_essentials_cpp](https://github.com/aniskoubaa/ros_essentials_cpp/tree/ros-noetic) repo:
+<p align="center">
+  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136834410-40ff7b56-4529-495f-9ad4-f994dd4de882.png">
+</p>
+<p>Before running the above nodes, make sure you run <code>sudo apt install python-is-python3</code> as your system uses python3 default this makes sure python is mapped to python3</p>
+
+<p align="center">
+  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/136957932-d368ead0-6072-4479-b146-25218df60a7e.png">
+</p>
+
+## You've installed ROS successfully!
+<p>The above steps conclude the ROS installation and testing :)</p>
