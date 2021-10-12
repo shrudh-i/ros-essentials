@@ -1,3 +1,5 @@
-# ROS Essentials
-Starting off from an absolute beginner level to advanced levels.
-<hr>
+<div align="center">
+  <h1># ROS Essentials</h1>
+  <h3>Projects & Tutorials from absolute beginner level to an advanced level</h3>
+</div>
+
