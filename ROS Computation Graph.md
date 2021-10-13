@@ -1,6 +1,6 @@
 # ROS Computation Graph
 
-<p>ROS contains nodes that can communicate with each other, through one of the following modes:</p>
+<p>Every node in a ROS computation graph can communicate with other nodes, through one of the following communication modes:</p>
 
 <b><ul>
   <li>Topics</li>
