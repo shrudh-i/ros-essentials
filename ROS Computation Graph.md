@@ -9,6 +9,7 @@
   <li>Parameters</li>
 </ul></b>
 <p align="center">
-  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/139591476-5618abc9-9887-487f-aafd-e8aef72aa232.jpg">
+  <img width="569.3240901213" src="https://user-images.githubusercontent.com/89002422/139591537-b5039630-d8e2-4846-bcca-2eab206f763a.png">
 </p>
 <hr>
+
