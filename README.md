@@ -5,7 +5,7 @@
 <ul>
   <li><code>roscore</code> - to run the main ros server</li>
   <li><code>roscd</code> - to switch to main ros directory</li>
-  <li><code>roscd [package_name]</code> - to switch to the specific package inside the ros directory</li>
+  <li><code>roscd [ros_package_name] [ros_node_name]</code> - to switch to the specific package inside the ros directory</li>
 </ul>
 
 
