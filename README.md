@@ -7,6 +7,8 @@
   <li><code>roscd</code> - to switch to main ros directory</li>
   <li><code>roscd [ros_package_name]</code> - to switch to the specific package inside the ros directory</li>
   <li><code>roscd [ros_package_name] [ros_node_name]</code> - to run the specified ros-node</li>
+  <li><code>rosnode list</code> - to display the list of nodes that are running</li>
+  <li><code>rostopic list</code> - to display the list of topics that are running</li>
 </ul>
 
 
